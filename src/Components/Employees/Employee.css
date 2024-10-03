@@ -1,0 +1,39 @@
+.users {
+    width: 90%;
+    margin: 90px auto;
+    padding: 5px;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+.users__container{
+    text-align: center;
+    border: 1px solid #e8eaeb;
+    border-radius: 10px;
+}
+  
+  .pagination-buttons {
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 0px 0px 10px 10px;
+}
+  
+  .ant-table {
+    margin-top: 20px;
+  }
+
+  .employee__id{
+    width: 19%;
+    margin: 90px auto;
+    padding: 9px;
+    background-color: #fff;
+    border-radius: 10px;
+  }
+
+  .employee__id--container{
+    text-align: center;
+    border-radius: 10px;
+  }
+  
